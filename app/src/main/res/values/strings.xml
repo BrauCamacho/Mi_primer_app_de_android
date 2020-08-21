@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">estudiantes</string>
+    <string name="tv_Estatus">Estatus del alumno</string>
+    <string name="matematicas">Matematicas</string>
+    <string name="espa_ol">Español</string>
+    <string name="ingl_s">Inglés</string>
+    <string name="calcular">Calcular</string>
+    <string name="estatus">Estatus</string>
+</resources>
